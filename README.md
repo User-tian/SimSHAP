@@ -2,7 +2,7 @@
 
 Official PyTorch implementation for "Exploring Unified Perspective For Fast Shapley Value Estimation"
 
-Paper(https://arxiv.org/pdf/2311.01010.pdf)
+[Paper](https://arxiv.org/pdf/2311.01010.pdf)
 
 Code will be comming soon!
 
